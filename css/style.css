@@ -1,0 +1,81 @@
+body{
+    margin: auto;
+    text-align: center;
+    width: 80%;
+    
+}
+
+p {
+    font-family: 'Domine', serif;
+}
+
+.header {
+    border: solid 2px black;
+    width: 40%;
+    display: inline-block;
+    padding: 20px;
+    margin-bottom: 0;
+}
+
+ul{
+    list-style: none;
+}
+
+li{
+    display: inline;
+    padding: 20px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.skills{
+    margin-top: 45px;
+    margin-bottom: 30px;
+    padding-bottom: 10px;
+    border-bottom: solid navy 1px;  
+}
+
+.frontEndDevelopmentSkill {
+    margin: 20px;
+    display: inline-block;
+    width: 25%
+}
+
+.backEndDevelopmentSkill {
+    margin: 20px;
+    display: inline-block;
+    width: 25%;
+}
+
+.resumeSkill {
+    margin: 20px;
+    display: inline-block;
+    width: 25%;
+}
+
+.frontend {
+   
+    color: white;
+    background-color: #103f54;
+    border-radius: 100%;
+    height: 180px;
+    width: 180px;
+}
+
+.backend{
+    color: white;
+    border-radius: 100%;
+    height: 180px;
+    width: 180px;
+    background-color: #207ea9;
+}
+
+.resume {
+    color: white;
+    background-color: #103f54;
+    border-radius: 100%;
+    height: 180px;
+    width: 180px; 
+}
